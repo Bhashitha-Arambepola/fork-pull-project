@@ -5,3 +5,5 @@ window.addEventListener('mousemove',(e)=>{
     pointer.style.top= (e.clientY+15)+'px';
 });
 
+console.log("works");
+
